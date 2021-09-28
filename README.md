@@ -11,5 +11,5 @@ author: @aufarhmn
 
 WARNING!
 
-Program hanya dapat dijalankan menggunakan IDE yang sudah terinstall di komputer. 
-Program TIDAK dapat berjalan jika menggunakan IDE yang bersifat online.
+Program hanya dapat dijalankan menggunakan code editor yang sudah terinstall di komputer. 
+Program TIDAK dapat berjalan jika menggunakan code editor yang bersifat online.
